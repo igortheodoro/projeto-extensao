@@ -1,19 +1,14 @@
 {
   "name": "projeto-extensao-master",
   "version": "1.0.0",
-  "description": "Arpeggio Musical",
+  "description": "A Website made for an University Project",
   "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "Igor Theodoro e Matheus Vitoriano",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "ejs": "^3.0.1",
-    "express": "^4.17.1",
-    "mailgun-js": "^0.22.0",
-    "nodemailer": "^6.4.2"
-  }
+  "author": "Igor Theodoro & Matheus Vitoriano",
+  "license": "ISC"
 }
