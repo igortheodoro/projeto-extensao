@@ -37,7 +37,5 @@ app.get('*', function (req, res) {
   res.redirect('/');
 });
 
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-  console.log(`Our app is running on port ${PORT}`);
-});
+var port_number = server.listen(process.env.PORT || 3000);
+app.listen(port_number);
