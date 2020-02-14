@@ -4,7 +4,7 @@
   "description": "Arpeggio Musical",
   "main": "server.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Igor Theodoro e Matheus Vitoriano",
