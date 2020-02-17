@@ -4,7 +4,7 @@ Site para o projeto de extensão da universidade. O objetivo era resolver proble
 
 ## Deployment
 
-https://igortheodoro.github.io/projeto-extensao/
+https://intense-mountain-18087.herokuapp.com/
 
 ## Feito com
 
