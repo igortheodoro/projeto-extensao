@@ -14,5 +14,5 @@ https://intense-mountain-18087.herokuapp.com/
 
 ## Autores
 
-* **Igor Theodoro** - (https://github.com/igortheodoro)
-* **Matheus Vitoriano** - (https://github.com/mbvitoriano)
+* **[Igor Theodoro](https://github.com/igortheodoro)**
+* **[Matheus Vitoriano](https://github.com/mbvitoriano)**
